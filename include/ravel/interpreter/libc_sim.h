@@ -5,6 +5,7 @@
  *
  */
 
+#include <cstdint>
 #include <array>
 #include <cstddef>
 #include <cstdio>
